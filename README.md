@@ -1,1 +1,1 @@
-A minimal barebones SQLite-3 clone from scratch in C.
+A minimal SQLite3 clone from scratch in C.
